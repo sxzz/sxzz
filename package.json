@@ -1,0 +1,41 @@
+{
+  "name": "sxzz",
+  "type": "module",
+  "version": "0.1.1",
+  "packageManager": "pnpm@10.28.2",
+  "description": "Hi, I am Kevin Deng.",
+  "author": "Kevin Deng <sxzz@sxzz.moe>",
+  "license": "MIT",
+  "funding": "https://github.com/sponsors/sxzz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sxzz/sxzz.git"
+  },
+  "bugs": "https://github.com/sxzz/sxzz",
+  "exports": {
+    ".": "./index.mjs",
+    "./package.json": "./package.json"
+  },
+  "types": "./index.d.mts",
+  "bin": {
+    "sxzz": "./index.mjs"
+  },
+  "files": [
+    "index.d.mts",
+    "index.mjs"
+  ],
+  "scripts": {
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "open": "^11.0.0"
+  },
+  "devDependencies": {
+    "@sxzz/eslint-config": "^7.5.1",
+    "@sxzz/prettier-config": "^2.2.6",
+    "eslint": "^9.39.2",
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3"
+  },
+  "prettier": "@sxzz/prettier-config"
+}
