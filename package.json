@@ -1,0 +1,34 @@
+{
+  "name": "sxzz",
+  "version": "0.0.1",
+  "description": "Hi, I am 三咲智子 (Kevin)",
+  "type": "module",
+  "license": "MIT",
+  "bugs": "https://github.com/sxzz/sxzz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sxzz/sxzz"
+  },
+  "author": "三咲智子 Kevin Deng <sxzz@sxzz.moe>",
+  "funding": "https://github.com/sponsors/sxzz",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "bin": {
+    "sxzz": "./index.js"
+  },
+  "scripts": {
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "open": "^10.1.0"
+  },
+  "devDependencies": {
+    "@sxzz/eslint-config": "^5.2.0",
+    "@sxzz/prettier-config": "^2.2.1",
+    "eslint": "^9.21.0",
+    "prettier": "^3.5.3"
+  },
+  "prettier": "@sxzz/prettier-config"
+}
