@@ -1,0 +1,24 @@
+{
+  "name": "sxzz",
+  "version": "0.0.1",
+  "description": "Hi, I am 三咲智子 (Kevin)",
+  "bugs": "https://github.com/sxzz/sxzz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sxzz/sxzz"
+  },
+  "funding": "https://github.com/sponsors/sxzz",
+  "license": "MIT",
+  "author": "三咲智子 <sxzz@sxzz.moe>",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "sxzz": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.4.0"
+  }
+}
