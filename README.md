@@ -2,6 +2,14 @@
 
 Kevin · Student
 
+
+## Github Stats
+
+[![Sanxiaozhizi's GitHub Stats](https://github-stats.liuli.lol/api?username=sxzz&theme=vue&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/sxzz)
+
+![Most Used languages](https://github-stats.liuli.lol/api/top-langs/?username=sxzz&theme=vue&layout=compact)
+
+
 <!--
 **sxzz/sxzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
