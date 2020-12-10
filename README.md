@@ -5,6 +5,8 @@
 - [Blog](https://blog.sxzz.moe/)
 - Find me by [Telegram](https://t.me/sanxiaozhizi)
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=sxzz.sxzz)
+
 <!--
 **sxzz/sxzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
